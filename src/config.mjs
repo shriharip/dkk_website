@@ -1,11 +1,11 @@
 export const SITE = {
-	name: 'AstroWind',
+	name: 'Denmark Kannada Koota', 
 
 	origin: 'https://astrowind.vercel.app',
 	basePathname: '/',
 
-	title: 'AstroWind — Your website with Astro + Tailwind CSS',
-	description: '🚀 AstroWind is a free and ready to start template to make your website using Astro and Tailwind CSS.',
+	title: 'DKK — Denmark Kannada Koota',
+	description: '🚀 Community for Kannadigas staying in Denmark.',
 
 	googleAnalyticsId: false, // or "G-XXXXXXXXXX",
 	googleSiteVerificationId: 'orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M',
